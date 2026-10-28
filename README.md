@@ -151,8 +151,10 @@ holds the two programs named for their gases. And slide 6 recommends repeating a
 "using different scaling factors (1000 in the example above)"; the 1000 in that example is the
 random seed, and the recommendation is to repeat with different seeds.
 
-## License
+## License and permission
 
-The release as distributed carries no license statement, and none is applied here yet. This
-repository will carry the license that the authors agree to. The files themselves are not
-modified, and no license header will be added to them.
+GNU General Public License v3.0; see [`LICENSE`](LICENSE). Copyright (C) 2017–2018 Hugh I.
+Kim. The release as distributed carried no license statement. Hugh Kim gave his permission for
+it to be made public on 28 October 2026 and left the choice of license to Matthew Bush, who
+applied the license that its two ancestors, the 2000 and 2012 releases, carry. The files
+themselves are not modified: no license header was added to either program.
